@@ -1,4 +1,4 @@
-# Project Hormones — Machine Learning-Based Prediction of Fatty Acid Yields in *Schizochytrium* Fermentation
+#  Optimization of chemical regulator combinations based on the pretrained model TabPFN improves eicosapentaenoic acid content and titer in 
 
 This project uses multiple ML regression models (XGBoost, RandomForest, SVM, LightGBM, CatBoost, TabPFN) to predict EPA titer, EPA percentage, and lipid titer from chemical elicitor concentrations.
 
